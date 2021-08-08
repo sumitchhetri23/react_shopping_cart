@@ -7,14 +7,14 @@
             "title":"Sundress with intrinsic details",
             "description": "This is for latest trends and many more",
             "availableSizes": ["X","L","XL","XXL"],
-            "price": 29.9
+            "price": 44.9
         },
         {
             "_id":"dress2",
             "image":"/images/dress2.jpg",
             "title":"Sundress with intrinsic details",
             "description": "This is for latest trends and many more",
-            "availableSizes": ["X","L","XL","XXL"],
+            "availableSizes": ["X","L","XL","S","M"],
             "price": 29.9
         },
         {
@@ -22,24 +22,24 @@
             "image":"/images/dress3.jpg",
             "title":"Sundress with intrinsic details",
             "description": "This is for latest trends and many more",
-            "availableSizes": ["X","L","XL","XXL"],
-            "price": 29.9
+            "availableSizes": ["X","L","S"],
+            "price": 30.9
         },
         {
             "_id":"dress4",
             "image":"/images/dress4.jpg",
             "title":"Sundress with intrinsic details",
             "description": "This is for latest trends and many more",
-            "availableSizes": ["X","L","XL","XXL"],
-            "price": 29.9
+            "availableSizes": ["S","M"],
+            "price": 28.9
         },
         {
             "_id":"dress5",
             "image":"/images/dress5.jpg",
             "title":"Sundress with intrinsic details",
             "description": "This is for latest trends and many more",
-            "availableSizes": ["X","L","XL","XXL"],
-            "price": 29.9
+            "availableSizes": ["L","XS"],
+            "price": 31.9
         },
         {
             "_id":"dress6",
@@ -47,7 +47,7 @@
             "title":"Sundress with intrinsic details",
             "description": "This is for latest trends and many more",
             "availableSizes": ["X","L","XL","XXL"],
-            "price": 29.9
+            "price": 50.9
         }
     ]
 }
